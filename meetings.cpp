@@ -78,7 +78,7 @@ private:
     std::map<Time, MembersVector> _meetings;
 };
 
-void appointmentMaker() 
+void meetingManager() 
 {
     unsigned input_length;
     std::cin >> input_length;
@@ -154,6 +154,6 @@ void appointmentMaker()
 
 int main() 
 {
-    appointmentMaker();
+    meetingManager();
     return 0;
 }
