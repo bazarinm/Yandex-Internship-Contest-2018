@@ -19,6 +19,6 @@ void error() {
 }
 
 int main() {
-	error();
-	return 0;
+    error();
+    return 0;
 }
