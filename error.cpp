@@ -20,5 +20,5 @@ void error() {
 
 int main() {
 	error();
-  return 0;
+	return 0;
 }
